@@ -46,7 +46,6 @@ Passionate about building efficient, scalable applications with Java and explori
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AniketRaj24&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
+![](![]https://github.com/AniketRaj24/Stock-Market-Predictions-Using-Machine-Learning
+)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
