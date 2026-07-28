@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **aniketraj0003@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** A stock market prediction project using Machine Learning
-- 🌱 **I’m currently learning:** Artifical Intelligence Engineer Topics
+- 🌱 **I’m currently learning:** Artifical Intelligence and Machine Learning (AI&ML)
 - 👯 **I’m looking to collaborate on:** ML-based projects, especially in fintech and predictive analytics
 - 💬 **Ask me about:** Java Problems, Software Developing and Machine Learning
 - 📫 **How to reach me:** aniketraj0003@gmail.com
