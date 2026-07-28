@@ -1,12 +1,12 @@
 # 💫 Hi 👋, I'm Aniket Raj
-**A passionate Data Analytics || Java Programmar || Full Time Coder**
+**A passionate Software Developer || Java Programmar || Full Time Coder**
 
 Email Me 👉 ✉️ **aniketraj0003@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** A stock market prediction project using Machine Learning
 - 🌱 **I’m currently learning:** Artifical Intelligence Engineer Topics
 - 👯 **I’m looking to collaborate on:** ML-based projects, especially in fintech and predictive analytics
-- 💬 **Ask me about:** Java Problems, Data analytics and Machine Learning
+- 💬 **Ask me about:** Java Problems, Software Developing and Machine Learning
 - 📫 **How to reach me:** aniketraj0003@gmail.com
 - 😄 **Pronouns:** Aniket, He/Him
 - ⚡ **Fun fact:** I Love to code more than my girlfriend
