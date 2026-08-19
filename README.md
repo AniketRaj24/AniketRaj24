@@ -38,12 +38,6 @@ Passionate about building efficient, scalable applications with Java and explori
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AniketRaj24&theme=radical&hide_border=true" alt="AniketRaj24" />
 </p>
 
----
-📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AniketRaj24&theme=react-dark&hide_border=true" />
-</p>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/raj_aniket24) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AniketRaj24) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/raj_aniket24)
 
