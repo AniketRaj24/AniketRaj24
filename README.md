@@ -41,7 +41,7 @@ Passionate about building efficient, scalable applications with Java and explori
 ---
 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raj_aniket24&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AniketRaj24&theme=react-dark&hide_border=true" />
 </p>
 
 ## 🌐 Socials:
