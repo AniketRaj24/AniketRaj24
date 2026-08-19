@@ -34,11 +34,7 @@ Passionate about building efficient, scalable applications with Java and explori
 ![DSA](https://img.shields.io/badge/DSA-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 # 📊 GitHub Stats:
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AniketRaj24&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AniketRaj24&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-<p align="center">
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AniketRaj24&theme=radical&hide_border=true" alt="AniketRaj24" />
 </p>
 
